@@ -1,3 +1,11 @@
+//Ссылки
+//Делаем GraphQL API на PHP и MySQL. Часть 1: Установка, схема и запросы
+https://habrahabr.ru/post/328122/
+//Делаем GraphQL API на PHP и MySQL. Часть 2: Мутации, переменные, валидация и безопасность
+https://habrahabr.ru/post/329238/
+//Делаем GraphQL API на PHP и MySQL. Часть 3: Решение проблемы N+1 запросов
+https://habrahabr.ru/post/329408/
+
 
 //Установка библиотеки
 composer require webonyx/graphql-php
@@ -11,4 +19,3 @@ GraphiQL Feen
 query{
   hello
 }
-
