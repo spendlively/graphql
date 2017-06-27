@@ -1,0 +1,14 @@
+
+//Установка библиотеки
+composer require webonyx/graphql-php
+php composer.phar require webonyx/graphql-php="^0.9"
+
+//Установка расширений для chrome
+ChromeiQL
+GraphiQL Feen
+
+//Тестовый запрос
+query{
+  hello
+}
+
