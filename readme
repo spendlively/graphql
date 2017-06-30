@@ -19,3 +19,8 @@ GraphiQL Feen
 query{
   hello
 }
+
+//CURL
+curl -X POST http://localhost:8888/test.php \
+    -H "Content-Type: application/json" \
+    -d '{"query": "{ hello }"}'
